@@ -89,16 +89,3 @@ Explore foods, track nutrition, and start building healthier habits today 💪
 - 🔜 Meal planning
 - 🔜 AI-based nutrition recommendations
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to fork this repository and submit a pull request.
-
----
-
-## ❤️ Made With Passion
-
-Built with love for health, fitness, and clean code.  
-Let’s fuel healthier lives together 🌱
