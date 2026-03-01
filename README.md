@@ -5,11 +5,11 @@
 <h1 align="center">🥗 Nutrifuel</h1>
 
 <p align="center">
-  <b>Fuel your body. Power your life.</b>
+  <b>Eat smart. Live strong.</b>
 </p>
 
 <p align="center">
-  A smart nutrition & food-tracking website that helps users make healthier,
+  A smart nutrition & food-tracking platform that helps users make healthier,
   informed dietary choices with ease.
 </p>
 
@@ -23,28 +23,34 @@
 
 ## 🌟 About Nutrifuel
 
-**Nutrifuel** is a nutrition-focused web platform designed to:
-- 🥦 Explore healthy foods  
-- 📊 Track calories & nutrients  
-- 🔍 Search ingredients easily  
-- 💡 Build smarter eating habits  
+**Nutrifuel** is a nutrition-focused web application designed to help users
+understand what they eat and build healthier eating habits effortlessly.
 
-Whether you're on a fitness journey or just want to eat better, **Nutrifuel keeps you on track.**
+From exploring nutritious foods to tracking daily calorie intake, Nutrifuel
+turns complex food data into simple, actionable insights — empowering users
+to stay consistent with their health goals.
 
 ---
 
 ## 🎯 Key Features
 
-✨ **Clean & Modern UI**  
-🍎 **Nutritional Info at a Glance**  
-📈 **Daily Intake Tracking**  
-🔍 **Food Search & Categories**  
-📱 **Fully Responsive Design**  
-⚡ **Fast & Lightweight**
+✨ **Clean & Modern UI** – Simple, distraction-free experience  
+🍎 **Nutrition at a Glance** – Calories & nutrients instantly  
+📈 **Daily Intake Tracking** – Stay consistent and goal-focused  
+🔍 **Smart Food Search** – Find foods and ingredients quickly  
+📱 **Fully Responsive Design** – Works on all devices  
+⚡ **Fast & Lightweight** – Smooth and efficient performance  
 
 ---
 
- 
+## 🚀 Live Website
+
+🔗 **Visit Nutrifuel:**  
+https://app-9t1903wr0agx.appmedo.com/dashboard
+
+Explore foods, track nutrition, and start building healthier habits today 💪
+
+---
 
 ## 🧩 Tech Stack
 
@@ -61,4 +67,24 @@ Whether you're on a fitness journey or just want to eat better, **Nutrifuel keep
 
 ---
 
- 
+## 🛣️ Roadmap
+
+- ✅ Food search & nutrition data
+- ✅ Responsive dashboard
+- 🔜 User profiles & goals
+- 🔜 Meal planning
+- 🔜 AI-based nutrition recommendations
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Feel free to fork this repository and submit a pull request.
+
+---
+
+## ❤️ Made With Passion
+
+Built with love for health, fitness, and clean code.  
+Let’s fuel healthier lives together 🌱
