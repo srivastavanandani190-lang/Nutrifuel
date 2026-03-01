@@ -2,21 +2,35 @@
   <img src="https://img.icons8.com/color/96/healthy-food.png" width="90"/>
 </p>
 
-<h1 align="center">🥗 Nutrifuel</h1>
+<h1 align="center">
+  🥗 Nutrifuel
+</h1>
 
 <p align="center">
-  <b>Eat smart. Live strong.</b>
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Poppins
+    &size=22
+    &pause=1000
+    &color=4CAF50
+    &center=true
+    &vCenter=true
+    &width=500
+    &lines=Eat+smart.+Live+strong.;Fuel+your+body.+Power+your+life.;Smarter+nutrition%2C+stronger+you." />
 </p>
 
 <p align="center">
-  A smart nutrition & food-tracking platform that helps users make healthier,
-  informed dietary choices with ease.
+  A <b>smart nutrition & food-tracking platform</b> that helps users make
+  healthier, informed dietary choices — effortlessly.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/made%20with-love-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/open%20source-yes-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Made%20With-Love-red?style=for-the-badge&logo=heart"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge&logo=github"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=80&section=footer"/>
 </p>
 
 ---
