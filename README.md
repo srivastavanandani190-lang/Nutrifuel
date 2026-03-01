@@ -44,12 +44,7 @@ Whether you're on a fitness journey or just want to eat better, **Nutrifuel keep
 
 ---
 
-## 🖥️ Live Demo
-
-🚀 **Website:**  
-👉 *Add your deployed website link here*  
-
----
+ 
 
 ## 🧩 Tech Stack
 
@@ -66,23 +61,4 @@ Whether you're on a fitness journey or just want to eat better, **Nutrifuel keep
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add screenshots inside an `assets/` folder and update paths)*
-
-<p align="center">
-  <img src="assets/homepage.png" width="70%" />
-</p>
-
-<p align="center">
-  <img src="assets/dashboard.png" width="70%" />
-</p>
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/srivastavanandani190-lang/Nutrifuel.git
-cd Nutrifuel
+ 
